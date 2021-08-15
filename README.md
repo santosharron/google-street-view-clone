@@ -8,7 +8,7 @@ A standalone panorama WebGL image viewer for desktop and mobile. This uses [regl
 npm install 360-image-viewer --save
 ```
 
-## Live Demo
+## Stream Now!!!
 
 Click [here](http://360-image-viewer-test.surge.sh/) to see a demo of this module in action. The source code is in [demo/index.js](./demo/index.js).
 
