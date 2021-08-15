@@ -1,4 +1,4 @@
-# 360-image-viewer
+# Google-Street-View-Clone
 
 A standalone panorama WebGL image viewer for desktop and mobile. This uses [regl](https://www.npmjs.com/package/regl) as the WebGL wrapper, and comes in at a total of 140kb uglified, or 46kb gzipped. This is useful if you need a panorama viewer but don't want to embed all of ThreeJS (which is around 500kb uglified).
 
