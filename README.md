@@ -10,9 +10,9 @@ npm install 360-image-viewer --save
 
 ## Stream Now!!!
 
-Click [here](http://360-image-viewer-test.surge.sh/) to see a demo of this module in action. The source code is in [demo/index.js](./demo/index.js).
+Click [here](https://youtu.be/6W8haS31SAI) to see a demo of this module in action. The source code is in [demo/index.js](./demo/index.js).
 
-[<img src="demo/screenshot.jpg" width="75%" />](http://360-image-viewer-test.surge.sh/)
+[<img src="https://i.imgur.com/Di2zIEK.jpg" width="75%" />](https://youtu.be/6W8haS31SAI)
 
 ## Example
 
