@@ -114,4 +114,4 @@ Attach a frame listener to the viewer, where `fn` accepts the `dt` (delta time) 
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/santosharron/google-street-view-clone/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](https://github.com/santosharron/google-street-view-clone/blob/main/LICENSE) for details.
