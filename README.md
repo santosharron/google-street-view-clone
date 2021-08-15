@@ -10,7 +10,7 @@ npm install 360-image-viewer --save
 
 ## Stream Now!!!
 
-Click [here](https://youtu.be/6W8haS31SAI) to see a demo of this module in action. The source code is in [demo/index.js](./demo/index.js).
+[Stream Now!](https://youtu.be/6W8haS31SAI) Also Consider [Subscribing](https://www.youtube.com/c/epicprogrammer/). The source code is in [demo/index.js](./demo/index.js).
 
 [<img src="https://i.imgur.com/Di2zIEK.jpg" width="75%" />](https://youtu.be/6W8haS31SAI)
 
